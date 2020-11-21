@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124213437405",
+    "firebase_url": "https://uts-nizaryahya.firebaseio.com",
+    "project_id": "uts-nizaryahya",
+    "storage_bucket": "uts-nizaryahya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124213437405:android:d6b4bb6229d7d0e14bcc34",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7jm_1711500122_nizar_yahya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124213437405-gqbummib9rm4u1mt75jl3eqbroo41fmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZg3Jc4gpasW4G3Cyo-tpyI55873u0fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124213437405-gqbummib9rm4u1mt75jl3eqbroo41fmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
